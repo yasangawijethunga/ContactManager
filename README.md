@@ -1,1 +1,3 @@
 # ContactManager
+
+##run: dotnet run
