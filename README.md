@@ -13,12 +13,12 @@ Click "Create" to make a new table
 
 In Table Design view, add these fields:
 
-ID (AutoNumber, Primary Key)
+> ID (AutoNumber, Primary Key)
 
-FirstName (Text)
+> FirstName (Text)
 
-LastName (Text)
+> LastName (Text)
 
-Email (Text)
+> Email (Text)
 
-Phone (Text)
+> Phone (Text)
