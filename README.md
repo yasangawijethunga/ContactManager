@@ -38,3 +38,8 @@ In Table Design view, add these fields:
 > Email (Text)
 
 > Phone (Text)
+
+
+## Run
+
+dotnet run
